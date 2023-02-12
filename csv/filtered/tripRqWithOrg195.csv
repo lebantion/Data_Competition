@@ -1,0 +1,1 @@
+id,scheduled_ts,pickup_ts,dropoff_ts,requested_ts,created_by,special_assistance,organization_id,ride_type,status,estimated_miles,fare,discount,route_id,updated_at,type,pricing_mode

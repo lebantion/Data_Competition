@@ -1,0 +1,4 @@
+route_id,driver_id_x,start_ts_x,end_ts_x,vehicle_id_x,ambulatory_riders_x,handicapped_riders_x,status_x,updated_at_x,make,model,year,capacity,handicapped,updated_at_y,trip_start_lat,trip_start_lon
+162875,20434.0,2022-05-29 17:39:01,2022-05-29 18:44:08,42,0,1,Completed,2022-06-16 13:07:57,Ford,,2018,9,2,2021-03-02 16:28:46,39.98409253,-82.91697037
+162875,20434.0,2022-05-29 17:39:01,2022-05-29 18:44:08,42,0,1,Completed,2022-06-16 13:07:57,Ford,,2018,9,2,2022-01-02 14:58:21,39.98409253,-82.91697037
+162875,20434.0,2022-05-29 17:39:01,2022-05-29 18:44:08,42,0,1,Completed,2022-06-16 13:07:57,Ford,,2018,9,2,2022-07-31 18:29:49,39.98409253,-82.91697037
